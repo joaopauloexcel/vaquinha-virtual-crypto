@@ -1,4 +1,4 @@
-# dapp
+# Vaquinha Virtual Crypto
 
 Our Vaquinha Virtual Crypto web3 frontend.
 
